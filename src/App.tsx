@@ -71,7 +71,7 @@ function App() {
             <ContactInfo
               email="meleti.rita@gmail.com"
               phone="+41 76 520 24 18"
-              address="Wülflingerstrasse 246, 8408 Winterthur"
+              address="Holzlegistrasse 24, 8408 Winterthur"
             />
           </div>
         </Section>
